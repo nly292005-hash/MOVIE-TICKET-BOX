@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Ticket Booking
 
 Website đặt vé xem phim được xây dựng bằng:
@@ -11,3 +12,7 @@ Website đặt vé xem phim được xây dựng bằng:
 
 ```bash
 npm install
+=======
+# MOVIE-TICKET-BOX
+WEB bán vé xem phim
+>>>>>>> 3676973a9083e1450aa372b742c3456c5c8117d3
